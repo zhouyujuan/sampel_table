@@ -1,0 +1,38 @@
+body{
+	/*background-color: red;*/
+}
+.backView{
+	text-align: center;
+	margin: 100 25% 0 25%
+}
+
+table{
+	white-space: nowrap;
+    border-collapse: collapse;
+	text-align: center;
+    border-right: 1px solid;
+   
+}
+
+table th{
+	height: 50px;
+	width: 60px;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+	border-left: 1px solid;
+
+}
+
+table td{
+	border-bottom: 1px solid;
+	border-left: 1px solid;
+
+}
+
+table th.first{
+	width: 100px;
+}
+
+table td.tdFirst{
+	width: 50px;
+}
